@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @notastack
 - 👀 I’m interested in coding, devops stuff and making it secure.
-- 🌱 I’m currently working on making my own site
+- 🌱 I’m currently working on making my own site and optimazing all interview questions to the max
 - 💞️ I’m looking to collaborate on making the perfect nix config
 - 📫 How to reach me all infos in the cv
 
